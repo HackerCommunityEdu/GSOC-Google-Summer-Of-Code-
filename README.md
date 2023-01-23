@@ -1,5 +1,7 @@
 # GSOC-Google-Summer-Of-Code-
 
+![Google_Summer_of_Code_logo_(2021) svg](https://user-images.githubusercontent.com/115384994/214100130-cd5eec94-ce52-4d23-8997-6d95a824dff6.png)
+
 
 <table>
   <tr>
