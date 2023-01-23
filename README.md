@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>Maria Anders</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/213993653-5b973452-4df6-438d-aca6-33797c3501ca.png"</td>
     <td>AboutCode</td>
   </tr>
   <tr>
