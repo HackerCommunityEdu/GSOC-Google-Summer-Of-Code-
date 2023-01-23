@@ -14,52 +14,52 @@
   <tr>
     <td>1</td>
     <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>AboutCode</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>AFLplusplus</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>AnkiDroid</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>AOSSIE</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>Apache Software Foundation</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>ArduPilot</td>
   </tr>
     <tr>
     <td>7</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Audacity</td>
   </tr>
     <tr>
     <td>8</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>BeagleBoard.org</td>
   </tr>
     <tr>
     <td>9</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Blender Foundation</td>
   </tr>
     <tr>
     <td>10</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>BRL-CAD</td>
   </tr>
     <tr>
     <td>11</td>
