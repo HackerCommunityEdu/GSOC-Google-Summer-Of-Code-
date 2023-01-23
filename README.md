@@ -64,252 +64,252 @@
     <tr>
     <td>11</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Casbin</td>
   </tr>
     <tr>
     <td>12</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>cBioPortal for Cancer Genomics</td>
   </tr>
     <tr>
     <td>13</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>CCExtractor Development</td>
   </tr>
     <tr>
     <td>14</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Center for Research in Open Source Software (CROSS)</td>
   </tr>
     <tr>
     <td>15</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Center for Translational Data Science</td>
   </tr>
     <tr>
     <td>16</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Ceph</td>
   </tr>
     <tr>
     <td>17</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>CERN-HSF</td>
   </tr>
     <tr>
     <td>18</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>CGAL Project</td>
   </tr>
     <tr>
     <td>19</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>CHAOSScheckstyle</td>
   </tr>
     <tr>
     <td>20</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>CHIPS Alliance</td>
   </tr>
     <tr>
     <td>21</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Chromium</td>
   </tr>
     <tr>
     <td>22</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>CircuitVerse.org</td>
   </tr>
     <tr>
     <td>23</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>CNCF</td>
   </tr>
     <tr>
     <td>24</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>coreboot</td>
   </tr>
     <tr>
     <td>25</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>CRIU</td>
   </tr>
     <tr>
     <td>26</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Cuneiform Digital Library Initiative (CDLI)</td>
   </tr>
     <tr>
     <td>27</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Dart</td>
   </tr>
     <tr>
     <td>28</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>DBpedia</td>
   </tr>
     <tr>
     <td>29</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Debian</td>
   </tr>
     <tr>
     <td>30</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Department of Biomedical Informatics, Emory University</td>
   </tr>
     <tr>
     <td>31</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Django Software Foundation</td>
   </tr>
     <tr>
     <td>32</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Drupal Association</td>
   </tr>
     <tr>
     <td>33</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Eclipse Foundation</td>
   </tr>
     <tr>
     <td>34</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Electron</td>
   </tr>
     <tr>
     <td>35</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>FFmpeg</td>
   </tr>
     <tr>
     <td>36</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Flashrom</td>
   </tr>
     <tr>
     <td>37</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Forschungszentrum Jülich</td>
   </tr>
     <tr>
     <td>38</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Fortran-lang</td>
   </tr>
     <tr>
     <td>39</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>FOSSology</td>
   </tr>
     <tr>
     <td>40</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Free and Open Source Silicon Foundation</td>
   </tr>
     <tr>
     <td>41</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>FreeType</td>
   </tr>
     <tr>
     <td>42</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>freifunk</td>
   </tr>
     <tr>
     <td>43</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>FRRouting</td>
   </tr>
     <tr>
     <td>44</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Genome Assembly and Annotation</td>
   </tr>
     <tr>
     <td>45</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Gentoo Foundation</td>
   </tr>
     <tr>
     <td>46</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>GeomScale</td>
   </tr>
     <tr>
     <td>47</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Git</td>
   </tr>
     <tr>
     <td>48</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>GitLab</td>
   </tr>
     <tr>
     <td>49</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Global Alliance for Genomics and Health</td>
   </tr>
     <tr>
     <td>50</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>GNOME Foundation</td>
   </tr>
     <tr>
     <td>51</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>GNSS-SDR</td>
   </tr>
     <tr>
     <td>52</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>GNU Compiler Collection (GCC)</td>
   </tr>
     <tr>
     <td>53</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>GNU Image Manipulation Program</td>
   </tr>
     <tr>
     <td>54</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>GNU Octave</td>
   </tr>
     <tr>
     <td>55</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>GNU Radio</td>
   </tr>
     <tr>
     <td>56</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Godot Engine</td>
   </tr>
     <tr>
     <td>57</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>GRAME</td>
   </tr>
     <tr>
     <td>58</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Haiku</td>
   </tr>
     <tr>
     <td>59</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Haskell.org</td>
   </tr>
     <tr>
     <td>60</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Homebrew</td>
   </tr>
     <tr>
     <td>61</td>
