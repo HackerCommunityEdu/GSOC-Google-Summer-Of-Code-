@@ -1020,8 +1020,8 @@
     </tr>
     <tr>
     <td>197</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214815018-2199fee1-1dc1-4cb2-9cd3-6b210e368d44.png"></td>
+    <td>RedHat</td>
   </tr>
     </tr>
     <tr>
