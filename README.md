@@ -51,7 +51,7 @@
   </tr>
     <tr>
     <td>8</td>
-    <td>![beagleboard_org_logo](https://user-images.githubusercontent.com/115384994/214752550-d214afef-1482-4925-9c2f-72a5b9f514d4.png)</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214752550-d214afef-1482-4925-9c2f-72a5b9f514d4.png"></td>
     <td>BeagleBoard.org</td>
   </tr>
     <tr>
