@@ -41,17 +41,17 @@
   </tr>
   <tr>
     <td>6</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214752437-4ccbce81-5c27-4ed1-9f99-42e7e09e625b.jpg"></td>
     <td>ArduPilot</td>
   </tr>
     <tr>
     <td>7</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214752462-fa848717-71df-4ef1-9cd6-2f2a1c609144.png"></td>
     <td>Audacity</td>
   </tr>
     <tr>
     <td>8</td>
-    <td>Giovanni Rovelli</td>
+    <td>![beagleboard_org_logo](https://user-images.githubusercontent.com/115384994/214752550-d214afef-1482-4925-9c2f-72a5b9f514d4.png)</td>
     <td>BeagleBoard.org</td>
   </tr>
     <tr>
