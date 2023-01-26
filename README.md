@@ -21,12 +21,12 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>Francisco Chang</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214751227-f0802938-cecd-4b24-93ce-24eafc3f56a2.png"</td>
     <td>AFLplusplus</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>Roland Mendel</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214751379-3ebf3a67-9ee2-437e-b31e-cd6acf2e3d1f.png"></td>
     <td>AnkiDroid</td>
   </tr>
   <tr>
