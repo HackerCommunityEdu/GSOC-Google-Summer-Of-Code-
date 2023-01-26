@@ -822,200 +822,200 @@
     <tr>
     <td>162</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Society for Arts and Technology (SAT)</td>
   </tr>
     <tr>
     <td>163</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Software Heritage</td>
   </tr>
     <tr>
     <td>164</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>SPDX</td>
   </tr>
     <tr>
     <td>165</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Ste||ar group</td>
   </tr>
     <tr>
     <td>167</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>strace</td>
   </tr>
     <tr>
     <td>168</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Submitty</td>
   </tr>
     </tr>
     <tr>
     <td>169</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Sugar Labs</td>
   </tr>
     </tr>
     <tr>
     <td>170</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Swift</td>
   </tr>
     </tr>
     <tr>
     <td>171</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Synfig</td>
   </tr>
     </tr>
     <tr>
     <td>172</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>syslog-ng</td>
   </tr>
     </tr>
     <tr>
     <td>173</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>TARDIS RT Collaboration</td>
   </tr>
     </tr>
     <tr>
     <td>174</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>TensorFlow</td>
   </tr>
     </tr>
     <tr>
     <td>175</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The ENIGMA Team</td>
   </tr>
     </tr>
     <tr>
     <td>176</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The FreeBSD Project</td>
   </tr>
     </tr>
     <tr>
     <td>177</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The Honeynet Project</td>
   </tr>
     </tr>
     <tr>
     <td>178</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The JPF team</td>
   </tr>
     </tr>
     <tr>
     <td>179</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The Julia Language</td>
   </tr>
     </tr>
     <tr>
     <td>180</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The Linux Foundation</td>
   </tr>
     </tr>
     <tr>
     <td>181</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The Mifos Initiative</td>
   </tr>
     </tr>
     <tr>
     <td>182</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The NetBSD Foundation</td>
   </tr>
     </tr>
     <tr>
     <td>183</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The ns-3 Network Simulator Project</td>
   </tr>
     </tr>
     <tr>
     <td>184</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The Palisadoes Foundation</td>
   </tr>
     </tr>
     <tr>
     <td>185</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>The Tor Project</td>
   </tr>
     </tr>
     <tr>
     <td>186</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>TianoCore</td>
   </tr>
     </tr>
     <tr>
     <td>187</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Unikraft</td>
   </tr>
     </tr>
     <tr>
     <td>188</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>VideoLAN</td>
   </tr>
     </tr>
     <tr>
     <td>189</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Wagtail</td>
   </tr>
     </tr>
     <tr>
     <td>190</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Wellcome Sanger Tree of Life</td>
   </tr>
     </tr>
     <tr>
     <td>191</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Wikimedia Foundation</td>
   </tr>
     </tr>
     <tr>
     <td>192</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>X.Org Foundation</td>
   </tr>
     </tr>
     <tr>
     <td>193</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Xfce</td>
   </tr>
     </tr>
     <tr>
     <td>194</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>XMPP Standards Foundation</td>
   </tr>
     </tr>
     <tr>
     <td>195</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>XWiki</td>
   </tr>
     </tr>
     <tr>
     <td>196</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Zulip</td>
   </tr>
     </tr>
     <tr>
