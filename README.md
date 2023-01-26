@@ -31,12 +31,12 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>Helen Bennett</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214751705-53935853-dd12-4683-8cb1-cc2817193773.png"></td>
     <td>AOSSIE</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>Yoshi Tannamuri</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214751873-8c0f85a3-e7c5-4e54-ac23-1f6151cea2e8.png"></td>
     <td>Apache Software Foundation</td>
   </tr>
   <tr>
