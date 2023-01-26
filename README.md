@@ -126,22 +126,22 @@
   </tr>
     <tr>
     <td>23</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214813824-e72648ff-9913-4a43-aa66-d5952e4dd48d.png"></td>
     <td>CNCF</td>
   </tr>
     <tr>
     <td>24</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214813887-8bf15369-68ee-48ed-8326-bd06758504e1.png"></td>
     <td>coreboot</td>
   </tr>
     <tr>
     <td>25</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214813949-94d976df-7c26-47f3-9427-4506ee1fc379.png"></td>
     <td>CRIU</td>
   </tr>
     <tr>
     <td>26</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214814015-226bcb60-43a3-4c27-b4e3-c655c11df7a5.jpg"></td>
     <td>Cuneiform Digital Library Initiative (CDLI)</td>
   </tr>
     <tr>
