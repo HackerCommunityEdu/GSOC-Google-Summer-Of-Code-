@@ -71,17 +71,17 @@
   </tr>
     <tr>
     <td>12</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214755504-fe9e7bc9-7e1d-4fab-993e-47ef32a1221c.png"></td>
     <td>cBioPortal for Cancer Genomics</td>
   </tr>
     <tr>
     <td>13</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214755544-a2cd17c9-26ce-45ca-a804-3a4327b65dca.png"></td>
     <td>CCExtractor Development</td>
   </tr>
     <tr>
     <td>14</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214755602-f4ff6507-1482-48bd-933d-890763495616.jpg"></td>
     <td>Center for Research in Open Source Software (CROSS)</td>
   </tr>
     <tr>
@@ -91,12 +91,12 @@
   </tr>
     <tr>
     <td>16</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214755663-8d74bc67-2597-4a6a-b81c-cde90aae8e28.png"></td>
     <td>Ceph</td>
   </tr>
     <tr>
     <td>17</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214755718-d3a686dd-97b5-4ab7-a8e3-0662758b4afa.png"></td>
     <td>CERN-HSF</td>
   </tr>
     <tr>
