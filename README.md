@@ -116,12 +116,12 @@
   </tr>
     <tr>
     <td>21</td>
-    <td><img src="https://user-images.githubusercontent.com/115384994/214811981-31d44abd-fe0d-4886-89bb-2d7f84880493.png></td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214811981-31d44abd-fe0d-4886-89bb-2d7f84880493.png"></td>
     <td>Chromium</td>
   </tr>
     <tr>
     <td>22</td>
-    <td><img src="https://user-images.githubusercontent.com/115384994/214812199-6b1f9ff1-eeea-4cd8-a9eb-e3f039d0a1b4.png></td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214812199-6b1f9ff1-eeea-4cd8-a9eb-e3f039d0a1b4.png"></td>
     <td>CircuitVerse.org</td>
   </tr>
     <tr>
