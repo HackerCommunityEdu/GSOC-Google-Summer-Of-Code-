@@ -56,17 +56,17 @@
   </tr>
     <tr>
     <td>9</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214754329-6e13bb9c-85ac-4513-bc80-58d67260906f.jpg"></td>
     <td>Blender Foundation</td>
   </tr>
     <tr>
     <td>10</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214754376-5ebdf03a-2459-4617-835c-0f10ef22ebf4.png"></td>
     <td>BRL-CAD</td>
   </tr>
     <tr>
     <td>11</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214754416-710c5300-717c-4ca1-a129-9fea6e0d9a9e.jpeg"></td>
     <td>Casbin</td>
   </tr>
     <tr>
