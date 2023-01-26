@@ -101,17 +101,17 @@
   </tr>
     <tr>
     <td>18</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214757254-12ebd01c-112f-40ce-9634-b18bc579013f.png"></td>
     <td>CGAL Project</td>
   </tr>
     <tr>
     <td>19</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214757290-b454adac-2f8f-4457-b280-c90154c4a3dd.png"></td>
     <td>CHAOSScheckstyle</td>
   </tr>
     <tr>
     <td>20</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214757396-d5027b1b-030e-4295-8bd4-de18d1f5fb0c.png"></td>
     <td>CHIPS Alliance</td>
   </tr>
     <tr>
