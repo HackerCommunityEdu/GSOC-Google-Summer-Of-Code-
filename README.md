@@ -17,132 +17,163 @@
     <td>1</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/213993653-5b973452-4df6-438d-aca6-33797c3501ca.png"</td>
     <td>AboutCode</td>
-    <td> </td>
+    <td>https://aboutcode.org/</td>
   </tr>
   <tr>
     <td>2</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214751227-f0802938-cecd-4b24-93ce-24eafc3f56a2.png"</td>
     <td>AFLplusplus</td>
+    <td>https://aflplus.plus/</td>
   </tr>
   <tr>
     <td>3</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214751379-3ebf3a67-9ee2-437e-b31e-cd6acf2e3d1f.png"></td>
     <td>AnkiDroid</td>
+    <td>https://github.com/ankidroid/Anki-Android</td>
   </tr>
   <tr>
     <td>4</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214751705-53935853-dd12-4683-8cb1-cc2817193773.png"></td>
     <td>AOSSIE</td>
+    <td>https://aossie.gitlab.io/</td>
   </tr>
   <tr>
     <td>5</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214751873-8c0f85a3-e7c5-4e54-ac23-1f6151cea2e8.png"></td>
     <td>Apache Software Foundation</td>
+    <td>https://apache.org/</td>
   </tr>
   <tr>
     <td>6</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214752437-4ccbce81-5c27-4ed1-9f99-42e7e09e625b.jpg"></td>
     <td>ArduPilot</td>
+    <td>https://ardupilot.org/</td>
   </tr>
     <tr>
     <td>7</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214752462-fa848717-71df-4ef1-9cd6-2f2a1c609144.png"></td>
     <td>Audacity</td>
+      <td>https://www.audacityteam.org/</td>
   </tr>
     <tr>
     <td>8</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214752550-d214afef-1482-4925-9c2f-72a5b9f514d4.png"></td>
     <td>BeagleBoard.org</td>
+      <td>https://beagleboard.org/</td>
   </tr>
     <tr>
     <td>9</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214754329-6e13bb9c-85ac-4513-bc80-58d67260906f.jpg"></td>
     <td>Blender Foundation</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>10</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214754376-5ebdf03a-2459-4617-835c-0f10ef22ebf4.png"></td>
     <td>BRL-CAD</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>11</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214754416-710c5300-717c-4ca1-a129-9fea6e0d9a9e.jpeg"></td>
     <td>Casbin</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>12</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214755504-fe9e7bc9-7e1d-4fab-993e-47ef32a1221c.png"></td>
     <td>cBioPortal for Cancer Genomics</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>13</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214755544-a2cd17c9-26ce-45ca-a804-3a4327b65dca.png"></td>
     <td>CCExtractor Development</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>14</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214755602-f4ff6507-1482-48bd-933d-890763495616.jpg"></td>
     <td>Center for Research in Open Source Software (CROSS)</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>15</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214756460-a42569ae-dd6b-407c-ad65-0e6251761f02.png"></td>
     <td>Center for Translational Data Science</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>16</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214755663-8d74bc67-2597-4a6a-b81c-cde90aae8e28.png"></td>
     <td>Ceph</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>17</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214755718-d3a686dd-97b5-4ab7-a8e3-0662758b4afa.png"></td>
     <td>CERN-HSF</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>18</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214757254-12ebd01c-112f-40ce-9634-b18bc579013f.png"></td>
     <td>CGAL Project</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>19</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214757290-b454adac-2f8f-4457-b280-c90154c4a3dd.png"></td>
     <td>CHAOSScheckstyle</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>20</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214757396-d5027b1b-030e-4295-8bd4-de18d1f5fb0c.png"></td>
     <td>CHIPS Alliance</td>
+      <td>https://aboutcode.org/</td>
   </tr>
     <tr>
     <td>21</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214811981-31d44abd-fe0d-4886-89bb-2d7f84880493.png"></td>
     <td>Chromium</td>
+      <td>https://aboutcode.org/</td>
+      
   </tr>
     <tr>
     <td>22</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214812199-6b1f9ff1-eeea-4cd8-a9eb-e3f039d0a1b4.png"></td>
     <td>CircuitVerse.org</td>
+      <td>https://aboutcode.org/</td>
+      
   </tr>
     <tr>
     <td>23</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214813824-e72648ff-9913-4a43-aa66-d5952e4dd48d.png"></td>
     <td>CNCF</td>
+      <td>https://aboutcode.org/</td>
+      
   </tr>
     <tr>
     <td>24</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214813887-8bf15369-68ee-48ed-8326-bd06758504e1.png"></td>
     <td>coreboot</td>
+      <td>https://aboutcode.org/</td>
+      
   </tr>
     <tr>
     <td>25</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214813949-94d976df-7c26-47f3-9427-4506ee1fc379.png"></td>
     <td>CRIU</td>
+      <td>https://aboutcode.org/</td>
+      
   </tr>
     <tr>
     <td>26</td>
     <td><img src="https://user-images.githubusercontent.com/115384994/214814015-226bcb60-43a3-4c27-b4e3-c655c11df7a5.jpg"></td>
     <td>Cuneiform Digital Library Initiative (CDLI)</td>
+      <td>https://aboutcode.org/</td>
+      
   </tr>
     <tr>
     <td>27</td>
