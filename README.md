@@ -322,502 +322,502 @@
     <tr>
     <td>62</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Inkscape</td>
   </tr>
     <tr>
     <td>63</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Intel Video and Audio for Linux</td>
   </tr>
     <tr>
     <td>64</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>International Catrobat Association</td>
   </tr>
     <tr>
     <td>65</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Internet Health Report</td>
   </tr>
     <tr>
     <td>66</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>IOOS</td>
   </tr>
     <tr>
     <td>67</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>JabRef e.V.</td>
   </tr>
     <tr>
     <td>68</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>JBoss Community</td>
   </tr>
     <tr>
     <td>69</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>JdeRobot</td>
   </tr>
     <tr>
     <td>70</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Jenkins</td>
   </tr>
     <tr>
     <td>71</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Jenkins X</td>
   </tr>
     <tr>
     <td>72</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Jitsi</td>
   </tr>
     <tr>
     <td>73</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Joomla!</td>
   </tr>
     <tr>
     <td>74</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Joplin</td>
   </tr>
     <tr>
     <td>75</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Kart Project</td>
   </tr>
     <tr>
     <td>76</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>KDE Community</td>
   </tr>
     <tr>
     <td>77</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Keptn</td>
   </tr>
     <tr>
     <td>78</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Kodi</td>
   </tr>
     <tr>
     <td>79</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>LEAP Encryption Access Project</td>
   </tr>
     <tr>
     <td>80</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Learning Equality</td>
   </tr>
     <tr>
     <td>81</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>libcamera</td>
   </tr>
     <tr>
     <td>82</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>LibreCube Initiative</td>
   </tr>
     <tr>
     <td>83</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>LibreHealth</td>
   </tr>
     <tr>
     <td>84</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>LibreOffice</td>
   </tr>
     <tr>
     <td>85</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>libssh</td>
   </tr>
     <tr>
     <td>86</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>libvirt</td>
   </tr>
     <tr>
     <td>87</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Liquid Galaxy project</td>
   </tr>
     <tr>
     <td>88</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>LLVM Compiler Infrastructure</td>
   </tr>
     <tr>
     <td>89</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Machine Learning for Science (ML4SCI)</td>
   </tr>
     <tr>
     <td>90</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>MariaDB</td>
   </tr>
     <tr>
     <td>91</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Mathesar</td>
   </tr>
     <tr>
     <td>92</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Matrix.org</td>
   </tr>
     <tr>
     <td>93</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Mayor's Office of New Urban Mechanics</td>
   </tr>
     <tr>
     <td>94</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>MBDyn</td>
   </tr>
     <tr>
     <td>95</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>MDAnalysis</td>
   </tr>
     <tr>
     <td>96</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>MetaBrainz Foundation Inc</td>
   </tr>
     <tr>
     <td>97</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>MetaCall</td>
   </tr>
     <tr>
     <td>98</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Metasploit</td>
   </tr>
     <tr>
     <td>99</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Micro Electronics Research Lab - UITU</td>
   </tr>
     <tr>
     <td>100</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>MIT App Inventor</td>
   </tr>
     <tr>
     <td>101</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Mixxx</td>
   </tr>
     <tr>
     <td>102</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>mlpack</td>
   </tr>
     <tr>
     <td>103</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>moja global</td>
   </tr>
     <tr>
     <td>104</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Monado</td>
   </tr>
     <tr>
     <td>105</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>MoveIt</td>
   </tr>
     <tr>
     <td>106</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>MuseScore</td>
   </tr>
     <tr>
     <td>107</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>MZmine</td>
   </tr>
     <tr>
     <td>108</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>National Resource for Network Biology (NRNB)</td>
   </tr>
     <tr>
     <td>109</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Neutralinojs</td>
   </tr>
     <tr>
     <td>110</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>NumFOCUS</td>
   </tr>
     <tr>
     <td>111</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>omegaUp</td>
   </tr>
     <tr>
     <td>112</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Open Bioinformatics Foundation (OBF)</td>
   </tr>
     <tr>
     <td>113</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Open Chemistry</td>
   </tr>
     <tr>
     <td>114</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Open Food Facts</td>
   </tr>
     <tr>
     <td>115</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Open Genome Informatics</td>
   </tr>
     <tr>
     <td>116</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Open Robotics</td>
   </tr>
     <tr>
     <td>117</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Open Technologies Alliance - GFOSS</td>
   </tr>
     <tr>
     <td>118</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Open3D team</td>
   </tr>
     <tr>
     <td>119</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>OpenAFS</td>
   </tr>
     <tr>
     <td>120</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>OpenAstronomy</td>
   </tr>
     <tr>
     <td>121</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>OpenCV</td>
   </tr>
     <tr>
     <td>122</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>OpenMRS</td>
   </tr>
     <tr>
     <td>123</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>OpenStreetMap</td>
   </tr>
     <tr>
     <td>124</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>openSUSE Project</td>
   </tr>
     <tr>
     <td>125</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>OpenVINO Toolkit</td>
   </tr>
     <tr>
     <td>126</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>OpenWISP</td>
   </tr>
     <tr>
     <td>127</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Oppia Foundation</td>
   </tr>
     <tr>
     <td>128</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Orcasound</td>
   </tr>
     <tr>
     <td>129</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Organic Maps</td>
   </tr>
     <tr>
     <td>130</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>OSGeo (Open Source Geospatial Foundation)</td>
   </tr>
     <tr>
     <td>131</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Our World In Data</td>
   </tr>
     <tr>
     <td>132</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>OWASP Foundation</td>
   </tr>
     <tr>
     <td>133</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>PEcAn Project</td>
   </tr>
     <tr>
     <td>134</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Performance Co-Pilot</td>
   </tr>
     <tr>
     <td>135</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Plone Foundation</td>
   </tr>
     <tr>
     <td>136</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Polypheny</td>
   </tr>
     <tr>
     <td>137</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>PostgreSQL</td>
   </tr>
     <tr>
     <td>138</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>PowerDNS</td>
   </tr>
     <tr>
     <td>139</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Processing Foundation</td>
   </tr>
     <tr>
     <td>140</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Public Lab</td>
   </tr>
     <tr>
     <td>141</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Purr Data</td>
   </tr>
     <tr>
     <td>142</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Python Software Foundation</td>
   </tr>
     <tr>
     <td>143</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>QEMU</td>
   </tr>
     <tr>
     <td>144</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>R project for statistical computing</td>
   </tr>
     <tr>
     <td>145</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>RADAR-base</td>
   </tr>
     <tr>
     <td>146</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>ReactOS Foundation</td>
   </tr>
     <tr>
     <td>147</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Red Hen Lab</td>
   </tr>
     <tr>
     <td>148</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Responsible AI and Human Centred Technology</td>
   </tr>
     <tr>
     <td>149</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Rizin</td>
   </tr>
     <tr>
     <td>150</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>RoboComp</td>
   </tr>
     <tr>
     <td>151</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Robolectric</td>
   </tr>
     <tr>
     <td>152</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>rocket.chat</td>
   </tr>
     <tr>
     <td>153</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>RTEMS Project</td>
   </tr>
     <tr>
     <td>154</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Ruby</td>
   </tr>
     <tr>
     <td>155</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>SageMath</td>
   </tr>
     <tr>
     <td>156</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Scala Center</td>
   </tr>
     <tr>
     <td>157</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>SCoRe Lab</td>
   </tr>
     <tr>
     <td>158</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>ScummVM</td>
   </tr>
     <tr>
     <td>159</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>SeaQL</td>
   </tr>
     <tr>
     <td>160</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>Semi Technologies</td>
   </tr>
     <tr>
     <td>161</td>
     <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>sktime</td>
   </tr>
     <tr>
     <td>162</td>
