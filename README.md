@@ -86,7 +86,7 @@
   </tr>
     <tr>
     <td>15</td>
-    <td>Giovanni Rovelli</td>
+    <td><img src="https://user-images.githubusercontent.com/115384994/214756460-a42569ae-dd6b-407c-ad65-0e6251761f02.png"></td>
     <td>Center for Translational Data Science</td>
   </tr>
     <tr>
