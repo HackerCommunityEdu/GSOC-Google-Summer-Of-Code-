@@ -185,151 +185,181 @@
     <td>28</td>
     <td>Giovanni Rovelli</td>
     <td>DBpedia</td>
+      <td>https://www.dbpedia.org/</td>
   </tr>
     <tr>
     <td>29</td>
     <td>Giovanni Rovelli</td>
     <td>Debian</td>
+      <td>https://debian.org</td>
   </tr>
     <tr>
     <td>30</td>
     <td>Giovanni Rovelli</td>
     <td>Department of Biomedical Informatics, Emory University</td>
+      <td>https://med.emory.edu/departments/biomedical-informatics/</td>
   </tr>
     <tr>
     <td>31</td>
     <td>Giovanni Rovelli</td>
     <td>Django Software Foundation</td>
+      <td>https://www.djangoproject.com</td>
   </tr>
     <tr>
     <td>32</td>
     <td>Giovanni Rovelli</td>
     <td>Drupal Association</td>
+      <td>https://drupal.org</td>
   </tr>
     <tr>
     <td>33</td>
     <td>Giovanni Rovelli</td>
     <td>Eclipse Foundation</td>
+      <td>https://www.eclipse.org/</td>
   </tr>
     <tr>
     <td>34</td>
     <td>Giovanni Rovelli</td>
     <td>Electron</td>
+      <td>https://electronjs.org</td>
   </tr>
     <tr>
     <td>35</td>
     <td>Giovanni Rovelli</td>
     <td>FFmpeg</td>
+      <td>https://ffmpeg.org/</td>
   </tr>
     <tr>
     <td>36</td>
     <td>Giovanni Rovelli</td>
     <td>Flashrom</td>
+      <td>https://www.flashrom.org/</td>
   </tr>
     <tr>
     <td>37</td>
     <td>Giovanni Rovelli</td>
     <td>Forschungszentrum Jülich</td>
+      <td>https://fz-juelich.de/en</td>
   </tr>
     <tr>
     <td>38</td>
     <td>Giovanni Rovelli</td>
     <td>Fortran-lang</td>
+      <td>https://fortran-lang.org</td>
   </tr>
     <tr>
     <td>39</td>
     <td>Giovanni Rovelli</td>
     <td>FOSSology</td>
+      <td>https://fossology.org</td>
   </tr>
     <tr>
     <td>40</td>
     <td>Giovanni Rovelli</td>
     <td>Free and Open Source Silicon Foundation</td>
+      <td>https://www.fossi-foundation.org</td>
   </tr>
     <tr>
     <td>41</td>
     <td>Giovanni Rovelli</td>
     <td>FreeType</td>
+      <td>https://freetype.org</td>
   </tr>
     <tr>
     <td>42</td>
     <td>Giovanni Rovelli</td>
     <td>freifunk</td>
+      <td>https://freifunk.net/en</td>
   </tr>
     <tr>
     <td>43</td>
     <td>Giovanni Rovelli</td>
     <td>FRRouting</td>
+      <td>https://frrouting.org/</td>
   </tr>
     <tr>
     <td>44</td>
     <td>Giovanni Rovelli</td>
     <td>Genome Assembly and Annotation</td>
+      <td>https://www.ebi.ac.uk/</td>
   </tr>
     <tr>
     <td>45</td>
     <td>Giovanni Rovelli</td>
     <td>Gentoo Foundation</td>
+      <td>https://www.gentoo.org/</td>
   </tr>
     <tr>
     <td>46</td>
     <td>Giovanni Rovelli</td>
     <td>GeomScale</td>
+      <td>https://geomscale.github.io</td>
   </tr>
     <tr>
     <td>47</td>
     <td>Giovanni Rovelli</td>
     <td>Git</td>
+      <td>https://git-scm.com/</td>
   </tr>
     <tr>
     <td>48</td>
     <td>Giovanni Rovelli</td>
     <td>GitLab</td>
+      <td>https://gitlab.com</td>
   </tr>
     <tr>
     <td>49</td>
     <td>Giovanni Rovelli</td>
     <td>Global Alliance for Genomics and Health</td>
+      <td>https://ga4gh.org</td>
   </tr>
     <tr>
     <td>50</td>
     <td>Giovanni Rovelli</td>
     <td>GNOME Foundation</td>
+      <td>https://gnome.org</td>
   </tr>
     <tr>
     <td>51</td>
     <td>Giovanni Rovelli</td>
     <td>GNSS-SDR</td>
+      <td>https://gnss-sdr.org/</td>
   </tr>
     <tr>
     <td>52</td>
     <td>Giovanni Rovelli</td>
     <td>GNU Compiler Collection (GCC)</td>
+      <td>https://gcc.gnu.org/</td>
   </tr>
     <tr>
     <td>53</td>
     <td>Giovanni Rovelli</td>
     <td>GNU Image Manipulation Program</td>
+      <td>https://www.gimp.org/</td>
   </tr>
     <tr>
     <td>54</td>
     <td>Giovanni Rovelli</td>
     <td>GNU Octave</td>
+      <td>https://www.octave.org</td>
   </tr>
     <tr>
     <td>55</td>
     <td>Giovanni Rovelli</td>
     <td>GNU Radio</td>
+      <td>https://www.gnuradio.org</td>
   </tr>
     <tr>
     <td>56</td>
     <td>Giovanni Rovelli</td>
     <td>Godot Engine</td>
+      <td>https://godotengine.org</td>
   </tr>
     <tr>
     <td>57</td>
     <td>Giovanni Rovelli</td>
     <td>GRAME</td>
+      <td>https://faust.grame.fr</td>
   </tr>
     <tr>
     <td>58</td>
