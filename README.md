@@ -383,141 +383,169 @@
     <td>61</td>
     <td>Giovanni Rovelli</td>
     <td>INCF</td>
+      <td>https://www.incf.org</td>
   </tr>
     <tr>
     <td>62</td>
     <td>Giovanni Rovelli</td>
     <td>Inkscape</td>
+      <td>https://inkscape.org</td>
   </tr>
     <tr>
     <td>63</td>
     <td>Giovanni Rovelli</td>
     <td>Intel Video and Audio for Linux</td>
+      <td>https://www.intel.com/content/www/us/en/developer/topic-technology/open/opensource-media-framework/overview.html</td>
   </tr>
     <tr>
     <td>64</td>
     <td>Giovanni Rovelli</td>
     <td>International Catrobat Association</td>
+      <td>https://www.catrobat.org</td>
   </tr>
     <tr>
     <td>65</td>
     <td>Giovanni Rovelli</td>
     <td>Internet Health Report</td>
+      <td>https://ihr.iijlab.net</td>
   </tr>
     <tr>
     <td>66</td>
     <td>Giovanni Rovelli</td>
     <td>IOOS</td>
+      <td>https://ioos.noaa.gov/</td>
   </tr>
     <tr>
     <td>67</td>
     <td>Giovanni Rovelli</td>
     <td>JabRef e.V.</td>
+      <td>https://www.jabref.org/</td>
   </tr>
     <tr>
     <td>68</td>
     <td>Giovanni Rovelli</td>
     <td>JBoss Community</td>
+      <td>http://www.jboss.org/</td>
   </tr>
     <tr>
     <td>69</td>
     <td>Giovanni Rovelli</td>
     <td>JdeRobot</td>
+      <td>http://jderobot.github.io</td>
   </tr>
     <tr>
     <td>70</td>
     <td>Giovanni Rovelli</td>
     <td>Jenkins</td>
+      <td>https://jenkins.io/</td>
   </tr>
     <tr>
     <td>71</td>
     <td>Giovanni Rovelli</td>
     <td>Jenkins X</td>
+      <td>https://jenkins-x.io/</td>
   </tr>
     <tr>
     <td>72</td>
     <td>Giovanni Rovelli</td>
     <td>Jitsi</td>
+      <td>https://jitsi.org</td>
   </tr>
     <tr>
     <td>73</td>
     <td>Giovanni Rovelli</td>
     <td>Joomla!</td>
+      <td>https://www.joomla.org/</td>
   </tr>
     <tr>
     <td>74</td>
     <td>Giovanni Rovelli</td>
     <td>Joplin</td>
+      <td>https://joplinapp.org</td>
   </tr>
     <tr>
     <td>75</td>
     <td>Giovanni Rovelli</td>
     <td>Kart Project</td>
+      <td>https://kartproject.org</td>
   </tr>
     <tr>
     <td>76</td>
     <td>Giovanni Rovelli</td>
     <td>KDE Community</td>
+      <td>https://kde.org/</td>
   </tr>
     <tr>
     <td>77</td>
     <td>Giovanni Rovelli</td>
     <td>Keptn</td>
+      <td>https://keptn.sh/</td>
   </tr>
     <tr>
     <td>78</td>
     <td>Giovanni Rovelli</td>
     <td>Kodi</td>
+      <td>https://kodi.tv</td>
   </tr>
     <tr>
     <td>79</td>
     <td>Giovanni Rovelli</td>
     <td>LEAP Encryption Access Project</td>
+      <td>https://leap.se</td>
   </tr>
     <tr>
     <td>80</td>
     <td>Giovanni Rovelli</td>
     <td>Learning Equality</td>
+      <td>https://learningequality.org/</td>
   </tr>
     <tr>
     <td>81</td>
     <td>Giovanni Rovelli</td>
     <td>libcamera</td>
+     <td>https://libcamera.org</td>
   </tr>
     <tr>
     <td>82</td>
     <td>Giovanni Rovelli</td>
     <td>LibreCube Initiative</td>
+      <td>https://librecube.org</td>
   </tr>
     <tr>
     <td>83</td>
     <td>Giovanni Rovelli</td>
     <td>LibreHealth</td>
+      <td>https://librehealth.io</td>
   </tr>
     <tr>
     <td>84</td>
     <td>Giovanni Rovelli</td>
     <td>LibreOffice</td>
+      <td>https://www.libreoffice.org/</td>
   </tr>
     <tr>
     <td>85</td>
     <td>Giovanni Rovelli</td>
     <td>libssh</td>
+      <td>https://www.libssh.org/</td>
   </tr>
     <tr>
     <td>86</td>
     <td>Giovanni Rovelli</td>
     <td>libvirt</td>
+      <td>https://libvirt.org/</td>
   </tr>
     <tr>
     <td>87</td>
     <td>Giovanni Rovelli</td>
     <td>Liquid Galaxy project</td>
+      <td>https://www.liquidgalaxy.eu</td>
   </tr>
     <tr>
     <td>88</td>
     <td>Giovanni Rovelli</td>
     <td>LLVM Compiler Infrastructure</td>
+      <td>http://www.llvm.org</td>
   </tr>
     <tr>
     <td>89</td>
