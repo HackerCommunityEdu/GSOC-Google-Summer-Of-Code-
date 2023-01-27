@@ -365,16 +365,19 @@
     <td>58</td>
     <td>Giovanni Rovelli</td>
     <td>Haiku</td>
+      <td>https://www.haiku-os.org</td>
   </tr>
     <tr>
     <td>59</td>
     <td>Giovanni Rovelli</td>
     <td>Haskell.org</td>
+      <td>https://haskell.org/</td>
   </tr>
     <tr>
     <td>60</td>
     <td>Giovanni Rovelli</td>
     <td>Homebrew</td>
+      <td>https://brew.sh</td>
   </tr>
     <tr>
     <td>61</td>
